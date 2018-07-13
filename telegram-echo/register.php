@@ -1,7 +1,7 @@
 <?php
 
 // PARAMETRI DA MODIFICARE
-$WEBHOOK_URL = 'https://tutorial_luca_BOT.herokuapp.com/execute.php';
+$WEBHOOK_URL = 'https://provabot.herokuapp.com/execute.php';
 $BOT_TOKEN = '555311358:AAH6N9JpJGo-sHn1ZR2p_MVfmT_DxZ9RLB8';
 
 // NON APPORTARE MODIFICHE NEL CODICE SEGUENTE
