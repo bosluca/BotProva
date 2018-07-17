@@ -5,7 +5,7 @@ echo "<br>Plugin Feedback: 2.0";
 
 $admin_list = array(
 $adminID, //questo lascialo
-14924659,
+555311358,
 );
 //aggiungi altri eventuali admin
 
